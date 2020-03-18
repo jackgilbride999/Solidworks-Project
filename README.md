@@ -10,5 +10,4 @@ and
 After exploration of the brief and comparison of different smoothie makers on the market, the product that I chose was the Nutribullet.
 
 ### Orthographic View
-![Nutribullet Orthographic]
-(/images/Nutribullet_Orthographic.JPG)
+![Nutribullet Orthographic](/Images/Nutribullet_Orthographic.JPG)
