@@ -1,11 +1,14 @@
 # Solidworks-Project
 Leaving Certificate Project for Design and Communication Graphics, 2017.
+
+![Nutribullet Photorealistic](/Images/Nutribullet_Photorealistic.JPG)
+
+![Powerblend Photorealistic](/Images/Powerblend_Photorealistic.JPG)
+
 ## Project Brief
 Smoothie and juice makers offer users a healthy drink that can be substituted for either breakfast, lunch or as a snack. Functionality, ease of cleaning, size, accessories and appearance are often key considerations when choosing such an appliance. They are also available in a wide range of materials.
 
 **(A)** Carry out a design investigation of existing smoothie/juice makers in graphic format. Your investigation should include an analysis of physical form, features, colour, materials etc. Choose one of the artefacts and generate a computer model, comprising at least 5 parts, an Assembly, Drawing and an eDrawing.
-
-and
 
 **(B)** Develop and graphically communicate a new concept design for a smoothie/juice maker based on a selected theme or aimed at a particular target market. 
 
@@ -17,9 +20,6 @@ After exploration of the brief and comparison of different smoothie makers on th
 
 ### Exploded & Pictorial Views
 ![Nutribullet Exploded and Pictorial](/Images/Nutribullet_Exploded_Pictorial.JPG)
-
-### Photorealistic
-![Nutribullet Photorealistic](/Images/Nutribullet_Photorealistic.JPG)
 
 ## Part B - Powerblend Concept
 Requirements for the concept included justification for the following key criteria:
@@ -50,6 +50,3 @@ biodegradable
 
 ### Exploded & Pictorial Views
 ![Powerblend Exploded and Pictorial](/Images/Powerblend_Exploded_Pictorial.JPG)
-
-### Photorealistic
-![Powerblend Photorealistic](/Images/Powerblend_Photorealistic.JPG)
